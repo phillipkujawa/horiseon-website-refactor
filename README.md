@@ -6,6 +6,8 @@ This is the module 1 challenge. In this challenge I refactored an existing webpa
 ## Live URL
 ![Alt text](screenshot.png)
 
+Live URL Link: https://phillipkujawa.github.io/horiseon-website-refactor/
+
 ## Changelog
 
 * Added a more descriptive website title
