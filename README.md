@@ -4,7 +4,7 @@
 This is the module 1 challenge. In this challenge I refactored an existing webpage to make it adhere to accessibility standards.
 
 ## Live URL
-
+![Alt text](screenshot.png)
 
 ## Changelog
 
